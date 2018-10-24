@@ -1,0 +1,24 @@
+{
+  "name": "rent-a-van",
+  "version": "1.0.0",
+  "description": "rent-a-van page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLautenschlager/rent-a-van.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FLautenschlager/rent-a-van/issues"
+  },
+  "homepage": "https://github.com/FLautenschlager/rent-a-van#readme",
+  "dependencies": {
+    "expect": "^23.6.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  }
+}
